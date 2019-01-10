@@ -1,0 +1,15 @@
+h1{
+color:red;
+text-decoration:line-through;
+}
+.sub{
+display:inline;
+border:dotted red 4px;
+
+}
+
+ol li{
+color:red;
+}
+
+

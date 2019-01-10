@@ -1,0 +1,31 @@
+/* comment */
+h1{
+color:white;
+background-color:red;
+display:inline;
+}
+h2{
+color:blue;
+}
+#iron{
+text-decoration:overline;
+}
+.comment{
+padding:5px;
+color:white;
+background-color:black;
+border:dotted yellow 4px;
+}
+h3{
+text-align:center;
+border:solid gray 3px;
+}
+#area{
+
+border:double gray 6px;
+width:400px;
+height:200px;
+}
+input{
+border-top:solid red 5px;
+}

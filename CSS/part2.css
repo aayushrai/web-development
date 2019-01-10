@@ -1,0 +1,9 @@
+body{
+background:url(image.jpg);
+background-repeat:repeat;
+}
+
+span{
+background-color:white;
+border:solid red 10px;
+}
