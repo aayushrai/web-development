@@ -1,0 +1,12 @@
+h1{
+border:solid blue 4px;
+width:50%;
+text-align:center;
+margin:auto;
+}
+h2{
+border:double green 6px;
+padding:100px;
+width:50%;
+text-align:center;
+}
