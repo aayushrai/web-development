@@ -1,0 +1,8 @@
+body{
+font:'Raleway',sans-serif;
+color:rgba(0,0,0,.5);
+text-align:center;
+text-transformation:uppercase;
+top:15%;
+background:linear-gradient(to right,red,yellow);
+}

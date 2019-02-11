@@ -1,18 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/java_Script/index.js" description="var c2 = document.querySelector.(&quot;.color2&quot;);" line="2" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="77b4b524-60f6-47f3-948b-b60332c07119" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Navbar_bootstrap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/myfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/myfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/myfile2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Script/myfile2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_Script/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/Form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="3" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_Script/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_Script/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,39 +82,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML Basics/basic1.xhtml" />
-        <option value="$PROJECT_DIR$/HTML Basics/basics2.html" />
-        <option value="$PROJECT_DIR$/HTML Basics/Basics1.html" />
-        <option value="$PROJECT_DIR$/HTML Basics/Basics2.html" />
-        <option value="$PROJECT_DIR$/HTML Basics/Basics3.html" />
-        <option value="$PROJECT_DIR$/HTML Basics/Tables.html" />
-        <option value="$PROJECT_DIR$/Form.html" />
-        <option value="$PROJECT_DIR$/CSS/part1.css" />
-        <option value="$PROJECT_DIR$/CSS/Part1_master.html" />
-        <option value="$PROJECT_DIR$/CSS/part2_master.html" />
-        <option value="$PROJECT_DIR$/CSS/part2.css" />
-        <option value="$PROJECT_DIR$/CSS/part3_master.html" />
-        <option value="$PROJECT_DIR$/CSS/part3.css" />
-        <option value="$PROJECT_DIR$/CSS/part4_master.html" />
-        <option value="$PROJECT_DIR$/CSS/part4.css" />
-        <option value="$PROJECT_DIR$/CSS/Final.html" />
-        <option value="$PROJECT_DIR$/CSS/Final.css" />
-        <option value="$PROJECT_DIR$/CSS/website.html" />
-        <option value="$PROJECT_DIR$/CSS/header.html" />
-        <option value="$PROJECT_DIR$/CSS/header.css" />
-        <option value="$PROJECT_DIR$/CSS/part5_master.html" />
-        <option value="$PROJECT_DIR$/CSS/part5.css" />
-        <option value="$PROJECT_DIR$/CSS/box_model.html" />
-        <option value="$PROJECT_DIR$/CSS/box.css" />
-        <option value="$PROJECT_DIR$/CSS/spectrum.html" />
-        <option value="$PROJECT_DIR$/CSS/spectrum.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/Nav.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Navbar.html" />
+        <option value="$PROJECT_DIR$/java_Script/myfile.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Grid.html" />
+        <option value="$PROJECT_DIR$/java_Script/myfile.js" />
+        <option value="$PROJECT_DIR$/java_Script/myfile2.html" />
+        <option value="$PROJECT_DIR$/java_Script/myfile2.js" />
+        <option value="$PROJECT_DIR$/p.html" />
+        <option value="$PROJECT_DIR$/java_Script/index,html.html" />
+        <option value="$PROJECT_DIR$/java_Script/index.css" />
+        <option value="$PROJECT_DIR$/java_Script/index.js" />
+        <option value="$PROJECT_DIR$/java_Script/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1913" />
-    <option name="width" value="1147" />
-    <option name="height" value="1017" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -69,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,20 +117,23 @@
               <item name="Web-development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web-development" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Web-development" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-development" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Web-development\CSS" />
+      <recent name="D:\Web-development\java_Script" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,6 +147,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -118,47 +165,52 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1147" height="1017" extended-state="0" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19116321" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32992035" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49048153" visible="true" weight="0.15078408" />
+      <window_info id="Structure" order="1" sideWeight="0.5095185" side_tool="true" weight="0.15078408" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Reviews" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32992035" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32992035" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32992035" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="News Feed" order="3" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49048153" visible="true" weight="0.15078408" />
+      <window_info id="Structure" order="1" sideWeight="0.5095185" side_tool="true" visible="true" weight="0.15078408" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Reviews" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32992035" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32992035" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32992035" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="News Feed" order="3" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML Basics/Tables.html" />
-    <entry file="file://$PROJECT_DIR$/Form.html" />
     <entry file="file://$PROJECT_DIR$/HTML Basics/basic1.xhtml" />
     <entry file="file://$PROJECT_DIR$/HTML Basics/Basics1.html" />
     <entry file="file://$PROJECT_DIR$/HTML Basics/Basics2.html" />
@@ -180,9 +232,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/part2 - Copy.css" />
-    <entry file="file://$PROJECT_DIR$/HTML/Tables.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/part3_master.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -292,6 +341,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/common.rnc" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pract.html" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Navbar_bootstrap3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Tables.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/myfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/myfile2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/myfile2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="26" column="21" lean-forward="true" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p.html" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/myfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Script/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="3" selection-end-line="7" />
         </state>
       </provider>
     </entry>
